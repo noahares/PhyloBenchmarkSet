@@ -1,5 +1,6 @@
 # Phylo Benchmark Set
 
 This repository contains hypergraphs from multiple sequence alignment (MSA) data.
-The hypergraphs originally where created for [HyperPhylo](https://github.com/lukashuebner/HyperPhylo/dataset/extracted).
-We converted them to the hMetis format to use them as input for [MtKaHyPar](https://github.com/kahypar/mt-kahypar/tree/judicious_refinement).
+The hypergraphs originally where created for [HyperPhylo](https://github.com/lukashuebner/HyperPhylo) in the _repeats_ format.
+The original files can be found [here](https://github.com/lukashuebner/HyperPhylo/tree/master/datasets/extracted).
+We converted them to the _hMetis_ format to use them as input for [MtKaHyPar](https://github.com/kahypar/mt-kahypar/tree/judicious_refinement).
